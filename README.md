@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Alandra Brown)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We were required to create an expense calculator and add additional categories to complete the application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://alandrabrown.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to retrieve values from text fields.)
+2. (I learned how to convert Strings to Floats using the parseFloat() method.)
+3. (I learned how to declare variables and create formulas to calculate those variables.)
